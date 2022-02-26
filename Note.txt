@@ -1,0 +1,6 @@
+py4e.com
+python3
+type(12)
+print('hello world!')
+متغیر نامی است که به مقداری اشاره می کند
+py is case sensitive
