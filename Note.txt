@@ -4,3 +4,16 @@ type(12)
 print('hello world!')
 متغیر نامی است که به مقداری اشاره می کند
 py is case sensitive
+
+statements : means any executable things
+** -> power
+//	-> 17//3 -> 5
+ %	-> 17%3 -> 2
+ expression -> value+variable+operator
+ operator priority	-> () > ** > * / > + -
+ input()
+ age = input('your age: ')
+ int(age) : convert str to int
+ # -> comment
+ True | False -> type -> bool
+ not | and | or
